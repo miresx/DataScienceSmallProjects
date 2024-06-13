@@ -16,5 +16,6 @@ Entre as bibliotecas e modelos utilizados nesses estudos estão:
 - KNN classifier
 - Rede neural
 - Arima
+- Árvore de decisão
 
 Obs: As pastas estão organizadas por categoria de modelo utilizado, e a pasta de análises com mais de um modelo está separada das demais.
